@@ -1,14 +1,16 @@
+/* 
+* ==========================================
+* (c) Copyright by Jllobvemy.
+* Introduction: Utilities for Algorithm
+* Date:  Jun 2021
+* Github: github.com/jllobvemy
+* Email: b19031327@njupt.edu.cn
+* ==========================================
+*/
 #pragma once
-// ==========================================
-// (c) Copyright by Jllobvemy.
-// Introduction: Utilities for Algorithm
-// Email: b19031327@njupt.edu.cn
-// Date:  Jun 2021
-// ==========================================
 #if (__cplusplus < 201703L && _MSVC_LANG < 201703L)
 #error("Error: C++17 or later required.")
 // -std=c++17 for g++ 
-// or 
 // set(CMAKE_CXX_STANDRED 17) for cmake
 #endif
 #include <iostream>
@@ -29,6 +31,7 @@ using std::vector;
 using std::pair;
 using std::size_t;
 using std::array;
+using ushort = unsigned short;
 
 template<typename T>
 void Swap(T& a, T&b)
