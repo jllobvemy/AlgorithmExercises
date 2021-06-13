@@ -1,2 +1,2 @@
 # AlgorithmExercises
-NJUPT 软工实验
+NJUPT 软工算法实验
