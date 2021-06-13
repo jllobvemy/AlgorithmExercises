@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -rdynamic CMakeFiles/select.dir/select.cpp.o -o ../../bin/Exercise_0/select 

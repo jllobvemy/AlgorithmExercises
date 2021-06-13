@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -I../include  -O3 -std=gnu++17 -o Exercise_0/Sort/CMakeFiles/sort.dir/sort.cpp.o -c \"/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_0/Sort/sort.cpp\"",
+  "file": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_0/Sort/sort.cpp"
+},
+{
+  "directory": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -I../include  -O3 -std=gnu++17 -o Exercise_0/Select/CMakeFiles/select.dir/select.cpp.o -c \"/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_0/Select/select.cpp\"",
+  "file": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_0/Select/select.cpp"
+},
+{
+  "directory": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -I../include  -O3 -std=gnu++17 -o Exercise_1/LCS/CMakeFiles/lcs.dir/lcs.cpp.o -c \"/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_1/LCS/lcs.cpp\"",
+  "file": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_1/LCS/lcs.cpp"
+},
+{
+  "directory": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -I../include  -O3 -std=gnu++17 -o Exercise_1/MatrixChain/CMakeFiles/matrixchain.dir/matrixchain.cpp.o -c \"/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_1/MatrixChain/matrixchain.cpp\"",
+  "file": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_1/MatrixChain/matrixchain.cpp"
+},
+{
+  "directory": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -I../include  -O3 -std=gnu++17 -o Exercise_2/8Queen/CMakeFiles/8queen.dir/8queen.cpp.o -c \"/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_2/8Queen/8queen.cpp\"",
+  "file": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_2/8Queen/8queen.cpp"
+},
+{
+  "directory": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -I../include  -O3 -std=gnu++17 -o Exercise_2/Loading/CMakeFiles/loading.dir/loading.cpp.o -c \"/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_2/Loading/loading.cpp\"",
+  "file": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_2/Loading/loading.cpp"
+},
+{
+  "directory": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -I../include  -O3 -std=gnu++17 -o Exercise_3/RSA/CMakeFiles/rsa.dir/rsa.cpp.o -c \"/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_3/RSA/rsa.cpp\"",
+  "file": "/home/jiaboyuan/programming/C++/Analysis and Design on Algorithm/Exercises/Exercise_3/RSA/rsa.cpp"
+}
+]

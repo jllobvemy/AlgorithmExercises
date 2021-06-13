@@ -1,0 +1,1 @@
+add_executable(8queen 8queen.cpp)

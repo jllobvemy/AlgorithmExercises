@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -rdynamic CMakeFiles/matrixchain.dir/matrixchain.cpp.o -o ../../bin/Exercise_1/matrixchain 

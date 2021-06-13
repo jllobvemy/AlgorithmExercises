@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -rdynamic CMakeFiles/8queen.dir/8queen.cpp.o -o ../../bin/Exercise_2/8queen 

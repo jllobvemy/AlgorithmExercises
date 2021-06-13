@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -rdynamic CMakeFiles/lcs.dir/lcs.cpp.o -o ../../bin/Exercise_1/lcs 
